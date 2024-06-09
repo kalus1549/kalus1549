@@ -19,7 +19,6 @@
 
   I am currently attending high school, specializing in Programming at Cetis. I enjoy and take pleasure in programming.
 
-
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
 
   ### :bar_chart: GitHub stats
@@ -27,7 +26,22 @@
   [![Karol's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalu1549&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
   ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=kalu1549&show_icons=true&theme=dark)
+
+  ### :computer: Languages I Know
+
+  <div id="languages">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/>
+  </div>
   
 </div>
+
+------
+
+Credits: [kalu1549](https://github.com/kalu1549)
+Last Edited: 05/04/23
 
 ------
