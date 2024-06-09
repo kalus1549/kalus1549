@@ -20,7 +20,7 @@
   I am currently attending high school, specializing in Programming at Cetis. I enjoy and take pleasure in programming.
 
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
-  <br>
+  
   ### :computer: Languages I Know
 
   <div id="languages">
@@ -31,6 +31,16 @@
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"/> 10%
   </div>
   
+  ### :file_folder: Public Repositories
+
+  Here are some of my public repositories in different programming languages, each with a README file:
+
+  1. **C++ Project**: [MyCppRepo](https://github.com/kalu1549/MyCppRepo)
+  2. **Java Project**: [MyJavaRepo](https://github.com/kalu1549/MyJavaRepo)
+  3. **JavaScript Project**: [MyJsRepo](https://github.com/kalu1549/MyJsRepo)
+  4. **PHP Project**: [MyPhpRepo](https://github.com/kalu1549/MyPhpRepo)
+  5. **HTML Project**: [MyHtmlRepo](https://github.com/kalu1549/MyHtmlRepo)
+
 </div>
 
 ------
