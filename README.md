@@ -20,13 +20,6 @@
   I am currently attending high school, specializing in Programming at Cetis. I enjoy and take pleasure in programming.
 
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
-
-  ### :bar_chart: GitHub stats
-
-  [![Karol's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalu1549&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-  ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=kalu1549&show_icons=true&theme=dark)
-
   ### :computer: Languages I Know
 
   <div id="languages">
