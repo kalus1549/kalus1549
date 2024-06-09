@@ -5,13 +5,10 @@
   </div>
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/karol-caballero/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.instagram.com/karol_caballero/">
+    <a href="https://www.instagram.com/karolc._/">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="mailto:karol.caballero@example.com">
+    <a href="mailto:karolromero139@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
     </a>
     <a href="https://leetcode.com/kalu1549/">
