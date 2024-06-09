@@ -11,9 +11,6 @@
     <a href="mailto:karolromero139@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail Badge"/>
     </a>
-    <a href="https://leetcode.com/kalu1549/">
-      <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Leetcode Badge"/>
-    </a>
   </div>
 
   ### Hi there 👋🎉
