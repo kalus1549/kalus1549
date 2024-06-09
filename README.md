@@ -17,7 +17,8 @@
 
   My name is **Karol Caballero** and welcome to my profile.
 
-  I am currently pursuing a B.Tech degree in Computer Science at Kalinga Institute of Industrial Technology. I am a coding and web designing enthusiast looking for opportunities to showcase my skills. My motto is to learn from any situation, grow as an individual, and always help others.
+  I am currently attending high school, specializing in Programming at Cetis. I enjoy and take pleasure in programming.
+
 
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
 
@@ -30,6 +31,3 @@
 </div>
 
 ------
-
-Credits: [kalu1549](https://github.com/kalu1549)
-Last Edited: 05/04/23
