@@ -38,8 +38,8 @@
   1. **C++ Project**: [MyCppRepo](https://github.com/kalu1549/MyCppRepo)
   2. **Java Project**: [MyJavaRepo](https://github.com/kalu1549/MyJavaRepo)
   3. **JavaScript Project**: [MyJsRepo](https://github.com/kalu1549/MyJsRepo)
-  4. **PHP Project**: [crud](https://github.com/kalu1549/crud)
-  5. **HTML Project**: [password](https://github.com/kalu1549/password)
+  4. **PHP Project (CRUD)**: [crud](https://github.com/kalu1549/crud)
+  5. **HTML Project (Password)**: [password](https://github.com/kalu1549/password)
 
 </div>
 
