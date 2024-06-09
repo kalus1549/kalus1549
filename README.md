@@ -20,6 +20,7 @@
   I am currently attending high school, specializing in Programming at Cetis. I enjoy and take pleasure in programming.
 
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
+  <br>
   ### :computer: Languages I Know
 
   <div id="languages">
