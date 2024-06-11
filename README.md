@@ -39,7 +39,7 @@
   2. **Java Project**: [MyJavaRepo](https://github.com/kalu1549/MyJavaRepo)
   3. **JavaScript Project**: [MyJsRepo](https://github.com/kalu1549/MyJsRepo)
   4. **PHP Project (CRUD)**: [crud](https://github.com/kalu1549/crud)
-  5. **HTML Project (Password)**: [password]([https://github.com/kalu1549/password](https://github.com/kalus1549/password/commit/a89180b3bd3341ceba4bace8debe7b06d7647d01))
+  5. **HTML Project (Password)**: [password](https://github.com/kalus1549/password/commit/a89180b3bd3341ceba4bace8debe7b06d7647d01)
 
 </div>
 
